@@ -1,4 +1,4 @@
-**README - Sistema de Cuenta Bancaria con Monitores**
+# Sistema de Cuenta Bancaria con Monitores - Ejemplo
 
 Este archivo contiene un programa en Python que simula transacciones en una cuenta bancaria utilizando monitores para garantizar la sincronización y la exclusión mutua en operaciones concurrentes.
 
